@@ -1,0 +1,8 @@
+{
+  "name": "Remix TRIPLOG",
+  "description": "감각적인 라이프스타일 큐레이션과 지도 기반 올인원 여행 플래너 및 쇼핑 무드보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
